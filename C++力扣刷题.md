@@ -6,7 +6,7 @@
 #include<iostream>
 using namespace std;
 int mian(){
-    return 0;
+    return 1;
 }
 ```
 
